@@ -2,4 +2,8 @@ jupiter is big and  has a red spot
 Jupiters moons are, Europa, Io, Ganymede, Callisto, Amalthea, Metis, 
 Adrastea, Thebe, Pasiphae, Ananke, Himalia, Carme, Themisto, Elara, 
 Leda, Sinope, Lysithea, Carpo, Erinome, Megaclite, Callirrhoe, Dia, 
-Pasithee, Kalyke, Orthosie, Cyllene, Chaldene, Locaste, Hermippe, Isonoe
+Pasithee, Kalyke, Orthosie, Cyllene, Chaldene, Locaste, Hermippe, 
+Isonoe, Harpalyke, Taygete, S/2003 J2, Eurydome, Autonoe, Euanthe, 
+Arche, Euporie, Kalliechore, Kore, Eukelade, Aitne, Hegemone, Herse, 
+Thyone, Praxidike, Sponde, Mneme, Helike, Aoede, Kale.
+
